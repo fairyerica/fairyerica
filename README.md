@@ -7,8 +7,7 @@
   </div>
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyerica&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fairyerica=anuraghazra&theme=buefy&show_icons=true)
 
 <!--
 **fairyerica/fairyerica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
