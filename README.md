@@ -1,7 +1,7 @@
 <div align=center>
 
  	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffairyerica&count_bg=%23FFA5F3&title_bg=%23F5FB30&icon=deno.svg&icon_color=%23DD36F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffairyerica&count_bg=%23FFA5F3&title_bg=%23F5FB30&icon=deno.svg&icon_color=%23DD36F5&title=hits&edge_flat=false)](https://github.com/fairyerica)
 	
  
   
